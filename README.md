@@ -1,8 +1,10 @@
 # 42Cursus
-libft: Todo correcto, hay un par de problemas de memoria con el malloc según Paco
+libft: Desplegar y crear librerías y a hacer funciones básicas de alta importancia recreando funciones existentes.
 
-get_next_line: Todo bien, sin bonus
+get_next_line: Lee y replica un documento.
 
-ft_printf: Todo bien, sin bonus
+ft_printf: Replicar la conocida función printf, aprender a usar listas en C.
 
-so_long: Todo bien, sin bonus
+so_long: Crear un programa en C capaz de diseñar y crear un videojuego a partir de un mapa introducido.
+
+minitalk: Crear un pequeño servidor de chat mediante señales Unix.
